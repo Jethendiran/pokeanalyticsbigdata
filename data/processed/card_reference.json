@@ -72,6 +72,14 @@
     "name": "Rock Fighting Energy"
   },
   {
+    "id": 31,
+    "name": "Chi-Yu"
+  },
+  {
+    "id": 42,
+    "name": "Applin"
+  },
+  {
     "id": 57,
     "name": "Relicanth"
   },
@@ -172,6 +180,10 @@
     "name": "Duraludon"
   },
   {
+    "id": 174,
+    "name": "Fan Rotom"
+  },
+  {
     "id": 183,
     "name": "Smoochum"
   },
@@ -268,6 +280,10 @@
     "name": "Team Rocket's Murkrow"
   },
   {
+    "id": 506,
+    "name": "Cubchoo"
+  },
+  {
     "id": 597,
     "name": "Frillish"
   },
@@ -286,6 +302,14 @@
   {
     "id": 648,
     "name": "Marnie's Grimmsnarl ex"
+  },
+  {
+    "id": 649,
+    "name": "Marnie's Morpeko"
+  },
+  {
+    "id": 655,
+    "name": "Celebi"
   },
   {
     "id": 666,
@@ -508,12 +532,20 @@
     "name": "Poké Pad"
   },
   {
+    "id": 1155,
+    "name": "Survival Brace"
+  },
+  {
     "id": 1159,
     "name": "Hero’s Cape"
   },
   {
     "id": 1161,
     "name": "Handheld Fan"
+  },
+  {
+    "id": 1166,
+    "name": "Gravity Gemstone"
   },
   {
     "id": 1167,
@@ -554,6 +586,10 @@
   {
     "id": 1189,
     "name": "Salvatore"
+  },
+  {
+    "id": 1190,
+    "name": "Bianca’s Devotion"
   },
   {
     "id": 1191,

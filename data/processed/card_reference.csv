@@ -17,6 +17,8 @@
 18,Grow Grass Energy
 19,Telepath Psychic Energy
 20,Rock Fighting Energy
+31,Chi-Yu
+42,Applin
 57,Relicanth
 58,Great Tusk
 63,Raging Bolt ex
@@ -42,6 +44,7 @@
 133,Dusknoir
 140,Fezandipiti ex
 169,Duraludon
+174,Fan Rotom
 183,Smoochum
 184,Latias ex
 190,Archaludon ex
@@ -66,11 +69,14 @@
 432,Team Rocket's Wobbuffet
 434,Team Rocket's Mimikyu
 463,Team Rocket's Murkrow
+506,Cubchoo
 597,Frillish
 607,Terrakion
 646,Marnie's Impidimp
 647,Marnie's Morgrem
 648,Marnie's Grimmsnarl ex
+649,Marnie's Morpeko
+655,Celebi
 666,Cinderace
 673,Makuhita
 674,Hariyama
@@ -126,8 +132,10 @@
 1146,Wondrous Patch
 1147,Jumbo Ice Cream
 1152,Poké Pad
+1155,Survival Brace
 1159,Hero’s Cape
 1161,Handheld Fan
+1166,Gravity Gemstone
 1167,Deluxe Bomb
 1173,Cynthia's Power Weight
 1174,Air Balloon
@@ -138,6 +146,7 @@
 1186,Eri
 1187,Morty’s Conviction
 1189,Salvatore
+1190,Bianca’s Devotion
 1191,Kieran
 1192,Carmine
 1194,Colress’s Tenacity
