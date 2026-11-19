@@ -7,3 +7,5 @@ data/raw/*
 data/processed/* 
 data/analytics/* 
 .ipynb_checkpoints/ 
+
+rust_processor/target/
