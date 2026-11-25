@@ -9,3 +9,8 @@ data/analytics/*
 .ipynb_checkpoints/ 
 
 rust_processor/target/
+
+# Firebase private credentials
+serviceAccountKey.json
+firebase-service-account*.json
+*-service-account*.json
