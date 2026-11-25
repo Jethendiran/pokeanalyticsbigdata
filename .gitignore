@@ -14,3 +14,18 @@ rust_processor/target/
 serviceAccountKey.json
 firebase-service-account*.json
 *-service-account*.json
+
+# Keep the card catalog required by the dashboard
+!data/processed/card_catalog.json
+
+# Exclude temporary dashboard backups and test images
+dashboard/*_backup.py
+dashboard/*_backup.bak
+dashboard/app_before_*.py
+dashboard/theme_*_backup.py
+grookey_test.png
+
+# Exclude local test backup scripts
+rust_processor/src/bin/*test_backup.rs
+
+dashboard/*.bak
